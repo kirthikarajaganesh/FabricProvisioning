@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZ9FQM4CU3yrT/eqBrcMn2+O3wyGjPgbC+vNTXbQuI5/pHqbQJnLjdBQxwFL8DSp+slw6tGIlkU9WhOtdw/vSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krajaganesh\\Documents\\Project\\FabricProvisioning\\FabricProvisioningLibrary\\FabricProvisioningLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krajaganesh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\krajaganesh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\krajaganesh\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\krajaganesh\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\krajaganesh\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

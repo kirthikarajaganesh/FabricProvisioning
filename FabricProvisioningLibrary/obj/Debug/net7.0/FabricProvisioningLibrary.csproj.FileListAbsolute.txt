@@ -1,0 +1,12 @@
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\bin\Debug\net7.0\Microsoft.Fabric.Provisioning.Library.deps.json
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\bin\Debug\net7.0\Microsoft.Fabric.Provisioning.Library.dll
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\bin\Debug\net7.0\Microsoft.Fabric.Provisioning.Library.pdb
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\FabricProvisioningLibrary.csproj.AssemblyReference.cache
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\FabricProvisioningLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\FabricProvisioningLibrary.AssemblyInfoInputs.cache
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\FabricProvisioningLibrary.AssemblyInfo.cs
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\FabricProvisioningLibrary.csproj.CoreCompileInputs.cache
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\Microsoft.Fabric.Provisioning.Library.dll
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\refint\Microsoft.Fabric.Provisioning.Library.dll
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\Microsoft.Fabric.Provisioning.Library.pdb
+C:\Users\krajaganesh\Documents\Project\FabricProvisioning\FabricProvisioningLibrary\obj\Debug\net7.0\ref\Microsoft.Fabric.Provisioning.Library.dll
